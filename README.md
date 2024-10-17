@@ -40,6 +40,11 @@ This project involves creating dashboards and data analysis solutions to monitor
 - **Power BI**: Interactive dashboards for real-time insights.  
 - **Tableau**: Data visualization and reporting.  
 
+## 🛠️ Challenges Faced  
+- Data cleaning and formatting inconsistencies.  
+- Standardizing data types across datasets.
+
+
 ## 📌 Conclusion  
 The dashboards provide a comprehensive overview of the insurance company’s performance, facilitating continuous monitoring and strategic decision-making. This project also highlights the importance of data preparation, data cleaning, and targeted employee development.
 
@@ -48,7 +53,3 @@ The dashboards provide a comprehensive overview of the insurance company’s per
 - Update dashboards regularly to reflect current data trends.  
 - Use insights for targeted employee training to enhance productivity.
 
-
-## 🛠️ Challenges Faced  
-- Data cleaning and formatting inconsistencies.  
-- Standardizing data types across datasets.  
