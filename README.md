@@ -22,16 +22,16 @@ This project involves creating dashboards and data analysis solutions to monitor
   - Top opportunity: **Fire category** with a revenue of **500K**.
 
 
-## 📊 Dashboard Previews  
+## 📊 Dashboard Previews
 
 ### 1. Excel Dashboard  
-![Screenshot 2024-10-13 180010](https://github.com/user-attachments/assets/97989db4-01b8-46c5-9919-528bded06678)
+<img src="https://github.com/user-attachments/assets/97989db4-01b8-46c5-9919-528bded06678" alt="Excel Dashboard" width="750"/>
 
-### 2. Power BI Dashboard   
-![Screenshot 2024-10-13 180748](https://github.com/user-attachments/assets/5f9378fa-1f07-48ca-8a9b-813dbe9398ab)
+### 2. Power BI Dashboard  
+<img src="https://github.com/user-attachments/assets/5f9378fa-1f07-48ca-8a9b-813dbe9398ab" alt="Power BI Dashboard" width="750"/>
 
 ### 3. Tableau Dashboard  
-![Screenshot 2024-10-13 180901](https://github.com/user-attachments/assets/b2726590-e5c9-410b-855b-ac9b0710b92b)
+<img src="https://github.com/user-attachments/assets/b2726590-e5c9-410b-855b-ac9b0710b92b" alt="Tableau Dashboard" width="750"/>
 
 
 ## ⚙️ Tools and Technologies  
